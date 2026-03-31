@@ -10,8 +10,22 @@ This project is a Hotel Management System web application developed using ASP.NE
 <li>Focused on implementing secure login, CRUD operations, and database connectivity using ASP.NET.</li>
 </ul>
 
+✨ Key Features
+<ul>
+<li>User Registration and Login System</li>
+<li>Role-based Login (Admin / User)</li>
+<li>Admin Dashboard</li>
+<li>Add New Rooms</li>
+<li>Update Room Details</li>
+<li>Delete Rooms</li>
+<li>View Available Rooms</li>
+<li>Room Booking System</li>
+<li>Booking Management for Admin</li>
+<li>Validation using ASP.NET controls</li>
+</ul>
+
 🛠️ Technical Stack & Implementation
-<ol>
+<ul>
 <li>Frontend: ASP.NET Web Forms + Bootstrap</li>
 <li>Backend: C#</li>
 <li>Database: SQL Server</li>
@@ -20,4 +34,4 @@ This project is a Hotel Management System web application developed using ASP.NE
 <li>Database Design: Tables for Users, Rooms, and Bookings</li>
 <li>Stored Procedures: Used for Login, Insert, Update, Delete, and View operations</li>
 <li>Development Tool: Visual Studio</li>
-</ol>
+</ul>
