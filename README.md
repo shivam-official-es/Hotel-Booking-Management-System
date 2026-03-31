@@ -1,7 +1,8 @@
 # Hotel-Booking-Management-System
 This project is a Hotel Management System web application developed using ASP.NET Web Forms, C#, SQL Server, and Bootstrap. The main objective of this project is to manage hotel room bookings, user registrations, and admin operations in a simple and efficient way. The system provides separate login modules for Admin and Users.
 
-📌 Project Overview
+<h3>📌 Project Overview</h3>
+<br>
 <ul>
 <li>Developed a Hotel Management System web application to manage hotel room bookings and user registrations.</li>
 <li>The system supports role-based authentication (Admin and User).</li>
@@ -10,7 +11,8 @@ This project is a Hotel Management System web application developed using ASP.NE
 <li>Focused on implementing secure login, CRUD operations, and database connectivity using ASP.NET.</li>
 </ul>
 
-✨ Key Features
+<h3>✨ Key Features</h3>
+<br>
 <ul>
 <li>User Registration and Login System</li>
 <li>Role-based Login (Admin / User)</li>
@@ -24,7 +26,8 @@ This project is a Hotel Management System web application developed using ASP.NE
 <li>Validation using ASP.NET controls</li>
 </ul>
 
-🛠️ Technical Stack & Implementation
+<h3>🛠️ Technical Stack & Implementation</h3>
+<br>
 <ul>
 <li>Frontend: ASP.NET Web Forms + Bootstrap</li>
 <li>Backend: C#</li>
